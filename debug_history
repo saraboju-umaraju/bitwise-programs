@@ -1,0 +1,1000 @@
+ 1234  vim bitwise_position_least.c +3
+ 1235  gcc bitwise_position_least.c 
+ 1236  ./a.out 
+ 1237  vim bitwise_position_least.c +3
+ 1238  gcc bitwise_position_least.c 
+ 1239  ./a.out 
+ 1240  vim bitwise_position_least.c +3
+ 1241  gcc bitwise_position_least.c 
+ 1242  ./a.out 
+ 1243  vim bitwise_position_least.c +3
+ 1244  gcc bitwise_position_least.c 
+ 1245  ./a.out 
+ 1246  vim bitwise_position_least.c +3
+ 1247  gcc bitwise_position_least.c 
+ 1248  ./a.out 
+ 1249  vim bitwise_position_least.c +3
+ 1250  gcc bitwise_position_least.c 
+ 1251  ./a.out 
+ 1252  vim bitwise_position_least.c +3
+ 1253  gcc bitwise_position_least.c 
+ 1254  ./a.out 
+ 1255  vim bitwise_position_least.c +3
+ 1256  gcc bitwise_position_least.c 
+ 1257  ./a.out 
+ 1258  vim bitwise_position_least.c +3
+ 1259  vim bitwise_position_least.c 
+ 1260  vim bitwise_gcd.c
+ 1261  gcc bitwise_gcd.c
+ 1262  ./a.
+ 1263  .
+ 1264  vim bitwise_gcd.c
+ 1265  vim right_most_bit.c
+ 1266  gcc right_most_bit.c
+ 1267  ./a.out 
+ 1268  gcc right_most_bit.c
+ 1269  vim right_most_bit.c
+ 1270  ./a.out 
+ 1271  gcc right_most_bit.c
+ 1272  vim right_most_bit.c
+ 1273  gcc right_most_bit.c
+ 1274  .
+ 1275  vim right_most_bit.c
+ 1276  gcc right_most_bit.c
+ 1277  vim right_most_bit.c
+ 1278  gcc right_most_bit.c
+ 1279  ./a.out 
+ 1280  vim right_most_bit.c
+ 1281  gcc right_most_bit.c
+ 1282  ./a.out 
+ 1283  vim right_most_bit.c
+ 1284  gcc right_most_bit.c
+ 1285  ./a.out 
+ 1286  vim right_most_bit.c
+ 1287  .
+ 1288  vim right_most_bit.c
+ 1289  gcc right_most_bit.c
+ 1290  ./a.out 
+ 1291  vim right_most_bit.c
+ 1292  gcc right_most_bit.c
+ 1293  ./a.out 
+ 1294  echo $?
+ 1295  vim right_most_bit.c
+ 1296  ./a.out 
+ 1297  echo $?
+ 1298  vim right_most_bit.c
+ 1299  gcc right_most_bit.c
+ 1300  ./a.out 
+ 1301  vim right_most_bit.c
+ 1302  ./a.out 
+ 1303  vim right_most_bit.c
+ 1304  echo $?
+ 1305  vim right_most_bit.c
+ 1306  gcc right_most_bit.c
+ 1307  ./a.out 
+ 1308  vim right_most_bit.c
+ 1309  gcc right_most_bit.c
+ 1310  vim right_most_bit.c
+ 1311  gcc right_most_bit.c
+ 1312  vim right_most_bit.c
+ 1313  gcc right_most_bit.c
+ 1314  ./a.out 
+ 1315  vim right_most_bit.c
+ 1316  gcc right_most_bit.c
+ 1317  ./a.out 
+ 1318  gcc right_most_bit.c
+ 1319  ./a.out 
+ 1320  gcc right_most_bit.c
+ 1321  vim right_most_bit.c
+ 1322  gcc right_most_bit.c
+ 1323  ./a.out 
+ 1324  vim right_most_bit.c
+ 1325  gcc -o right_most_set_bit_position
+ 1326  gcc -o right_most_set_bit_position right_most_bit.c 
+ 1327  sudo mv right_most_set_bit_position /bin/
+ 1328  right_most_set_bit_position 
+ 1329  vim right_most_bit.c
+ 1330  gcc -o right_most_set_bit_position right_most_bit.c 
+ 1331  sudo mv right_most_set_bit_position /bin/
+ 1332  right_most_set_bit_position 
+ 1333  vim right_most_bit.c
+ 1334  gcc -o right_most_set_bit_position right_most_bit.c 
+ 1335  ./right_most_set_bit_position 
+ 1336  vim right_most_bit.c
+ 1337  gcc -o right_most_set_bit_position right_most_bit.c 
+ 1338  ./right_most_set_bit_position 
+ 1339  sudo mv right_most_set_bit_position /bin/
+ 1340  man fclose
+ 1341  las
+ 1342  ls
+ 1343  vim right_most_bit.c 
+ 1344  vim  fclose_fail.c
+ 1345  gcc  fclose_fail.c
+ 1346  ./a.out 
+ 1347  vim  fclose_fail.c
+ 1348  gcc  fclose_fail.c
+ 1349  ./a.out 
+ 1350  vim  fclose_fail.c
+ 1351  gcc  fclose_fail.c
+ 1352  ./a.out 
+ 1353  vim  fclose_fail.c
+ 1354  vim min_max_of_numbers.c
+ 1355  gcc min_max_of_numbers.c
+ 1356  vim min_max_of_numbers.c
+ 1357  gcc min_max_of_numbers.c
+ 1358  vim min_max_of_numbers.c
+ 1359  gcc min_max_of_numbers.c
+ 1360  ./a.out 
+ 1361  vim min_max_of_numbers.c
+ 1362  gcc min_max_of_numbers.c
+ 1363  ./a.out 
+ 1364  vim min_max_of_numbers.c
+ 1365  gcc min_max_of_numbers.c
+ 1366  ./a.out 
+ 1367  vim min_max_of_numbers.c
+ 1368  gcc min_max_of_numbers.c
+ 1369  ./a.out 
+ 1370  vim min_max_of_numbers.c
+ 1371  gcc min_max_of_numbers.c
+ 1372  ./a.
+ 1373  gcc min_max_of_numbers.c
+ 1374  vim min_max_of_numbers.c
+ 1375  ls
+ 1376  gdb -tui ./a.out
+ 1377  ls
+ 1378  cd ..
+ 1379  cd gdb/
+ 1380  ls
+ 1381  vim main.c 
+ 1382  vim test.c 
+ 1383  vim check_stack.c
+ 1384  gcc -ggdb check_stack.c
+ 1385  ./a.out 
+ 1386  vim check_stack.c
+ 1387  gcc -ggdb check_stack.c
+ 1388  gdb ./a.out -q
+ 1389  vim check_stack.c
+ 1390  gcc -ggdb check_stack.c
+ 1391  gdb ./a.out -q
+ 1392  cd
+ 1393  ls
+ 1394  su
+ 1395  uname -r
+ 1396  cd hooking/
+ 1397  ls
+ 1398  su
+ 1399  uname -r
+ 1400  su
+ 1401  cd 
+ 1402  cd journeY/network_ing/illegal_network/
+ 1403  ls
+ 1404  vim sniffer_eth_tcp_and_udp.c 
+ 1405  vim main.c 
+ 1406  gcc main.c 
+ 1407  ./a.out 
+ 1408  vim main.c 
+ 1409  gcc main.c 
+ 1410  ./a.out 
+ 1411  vim main.c 
+ 1412  gcc main.c 
+ 1413  vim main.c 
+ 1414  gcc main.c 
+ 1415  ./a.out 
+ 1416  vim main.c 
+ 1417  gcc main.c 
+ 1418  ./a.out 
+ 1419  gcc main.c 
+ 1420  vim main.c 
+ 1421  gcc main.c 
+ 1422  vim main.c 
+ 1423  gcc main.c 
+ 1424  ./a.out 
+ 1425  vim main.c 
+ 1426  gcc main.c 
+ 1427  ./a.out 
+ 1428  vim main.c 
+ 1429  gcc main.c 
+ 1430  ./a.out 
+ 1431  vim main.c 
+ 1432  gcc main.c 
+ 1433  ./a.out 
+ 1434  vim main.c 
+ 1435  gcc main.c 
+ 1436  vim main.c 
+ 1437  gcc main.c 
+ 1438  vim main.c 
+ 1439  gcc main.c 
+ 1440  ./a.out 
+ 1441  vim main.c 
+ 1442  gcc main.c 
+ 1443  ./a.out 
+ 1444  vim main.c 
+ 1445  gcc main.c 
+ 1446  ./a.out 
+ 1447  vim main.c 
+ 1448  gcc main.c 
+ 1449  ./a.out 
+ 1450  vim main.c 
+ 1451  gcc main.c 
+ 1452  ./a.out 
+ 1453  vim main.c 
+ 1454  gcc main.c 
+ 1455  ./a.out 
+ 1456  vim main.c 
+ 1457  .
+ 1458  vim main.c 
+ 1459  gcc main.c 
+ 1460  ./a.out 
+ 1461  vim main.c 
+ 1462  cd ..
+ 1463  l
+ 1464  ls
+ 1465  mkdir bit_Iam_wise
+ 1466  cd bit_Iam_wise/
+ 1467  cd ..
+ 1468  mkdir assignment_revisited
+ 1469  cd assignment_revisited/
+ 1470  vim getchar_EOF.c
+ 1471  gcc getchar_EOF.c
+ 1472  ./a.out 
+ 1473  vim getchar_EOF.c
+ 1474  gcc getchar_EOF.c
+ 1475  ./a.out 
+ 1476  vim getchar_EOF.c
+ 1477  vim histogram_extended.c
+ 1478  gcc histogram_extended.c
+ 1479  ./a.out umaraju
+ 1480  vim histogram_extended.c
+ 1481  gcc histogram_extended.c
+ 1482  vim histogram_extended.c
+ 1483  gcc histogram_extended.c
+ 1484  ./a.out 
+ 1485  ./a.out umaraju
+ 1486  vim histogram_extended.c
+ 1487  gcc histogram_extended.c
+ 1488  ./a.out 
+ 1489  ./a.out umaraju uma u 
+ 1490  vim histogram_extended.c
+ 1491  gcc histogram_extended.c
+ 1492  ./a.out 
+ 1493  ./a.out umaraju umara umar uma um u
+ 1494  vim histogram_extended.c
+ 1495  gcc histogram_extended.c
+ 1496  ./a.out umaraju umara umar uma um u
+ 1497  ./a.out 
+ 1498  vim histogram_extended.c
+ 1499  gcc histogram_extended.c
+ 1500  ./a.out umaraju umara umar uma um u
+ 1501  gcc histogram_extended.c
+ 1502  ./a.out umaraju umara umar uma um u
+ 1503  vim histogram_extended.c
+ 1504  gcc histogram_extended.c
+ 1505  ./a.out umaraju umara umar uma um u
+ 1506  vim histogram_extended.c
+ 1507  gcc histogram_extended.c
+ 1508  ./a.out umaraju umara umar uma um u
+ 1509  vim histogram_extended.c
+ 1510  gcc histogram_extended.c
+ 1511  ./a.out umaraju umara umar uma um u
+ 1512  vim histogram_extended.c
+ 1513  gcc histogram_extended.c
+ 1514  vim histogram_extended.c
+ 1515  gcc histogram_extended.c
+ 1516  ./a.out umaraju umara umar uma um u
+ 1517  vim histogram_extended.c
+ 1518  gcc histogram_extended.c
+ 1519  ./a.out umaraju umara umar uma um u
+ 1520  vim histogram_extended.c
+ 1521  gcc histogram_extended.c
+ 1522  ./a.out umaraju umara umar uma um u
+ 1523  vim histogram_extended.c
+ 1524  gcc histogram_extended.c
+ 1525  ./a.out umaraju umaraju umaraju
+ 1526  ./a.out umaraju umar
+ 1527  vim histogram_extended.c
+ 1528  gcc histogram_extended.c
+ 1529  ./a.out umaraju umar
+ 1530  vim histogram_extended.c
+ 1531  gcc histogram_extended.c
+ 1532  ./a.out umaraju umar
+ 1533  vim histogram_extended.c
+ 1534  gcc histogram_extended.c
+ 1535  ./a.out umaraju umar
+ 1536  ./a.out umaraju umaraju
+ 1537  ./a.out umaraju umaraju umaraju
+ 1538  ./a.out umaraju umaraju umaraj
+ 1539  ./a.out umaraju umaraj umara
+ 1540  ./a.out umaraju umaraj umara umar uma um u
+ 1541  vim histogram_extended.c
+ 1542  gcc histogram_extended.c
+ 1543  ./a.out umaraju umaraj umara umar uma um u
+ 1544  ./a.out u um uma umar umara umaraj umaraju
+ 1545  vim reverse_string_revisited.c
+ 1546  gcc reverse_string_revisited.c
+ 1547  vim reverse_string_revisited.c
+ 1548  gcc reverse_string_revisited.c
+ 1549  vim reverse_string_revisited.c
+ 1550  gcc reverse_string_revisited.c
+ 1551  ./a.out 
+ 1552  vim reverse_string_revisited.c
+ 1553  gcc reverse_string_revisited.c
+ 1554  ./a.out 
+ 1555  vim reverse_string_revisited.c
+ 1556  gcc reverse_string_revisited.c
+ 1557  ./a.out 
+ 1558  vim reverse_string_revisited.c
+ 1559  gcc reverse_string_revisited.c
+ 1560  vim reverse_string_revisited.c
+ 1561  gcc reverse_string_revisited.c
+ 1562  ./a.out 
+ 1563  vim reverse_string_revisited.c
+ 1564  gcc reverse_string_revisited.c
+ 1565  ./a.out 
+ 1566  vim reverse_string_revisited.c
+ 1567  gcc reverse_string_revisited.c
+ 1568  ./a.out 
+ 1569  gcc reverse_string_revisited.c
+ 1570  ./a.out 
+ 1571  gcc reverse_string_revisited.c
+ 1572  ./a.out 
+ 1573  vim reverse_string_revisited.c
+ 1574  gcc reverse_string_revisited.c
+ 1575  ./a.out 
+ 1576  cp reverse_string_revisited.c entab_enhanced.c
+ 1577  vim entab_enhanced.c 
+ 1578  man memmve
+ 1579  man memmove
+ 1580  vim memmove.c
+ 1581  gcc memmove.c
+ 1582  ./a.out 
+ 1583  vim memmove.c
+ 1584  gcc memmove.c
+ 1585  ./a.out 
+ 1586  vim memmove.c
+ 1587  gcc memmove.c
+ 1588  ./a.out 
+ 1589  vim memmove.c
+ 1590  gcc memmove.c
+ 1591  .
+ 1592  vim memmove.c
+ 1593  gcc memmove.c
+ 1594  .
+ 1595  vim memmove.c
+ 1596  gcc memmove.c
+ 1597  .
+ 1598  vim entab_enhanced.c 
+ 1599  gccentab_enhanced.c 
+ 1600  gcc entab_enhanced.c 
+ 1601  man putc
+ 1602  vim entab_enhanced.c 
+ 1603  gcc entab_enhanced.c 
+ 1604  vim entab_enhanced.c 
+ 1605  gcc entab_enhanced.c 
+ 1606  vim entab_enhanced.c 
+ 1607  gcc entab_enhanced.c 
+ 1608  ./a.out 
+ 1609  vim entab_enhanced.c 
+ 1610  gcc entab_enhanced.c 
+ 1611  ./a.out 
+ 1612  vim entab_enhanced.c 
+ 1613  gcc entab_enhanced.c 
+ 1614  ./a.out 
+ 1615  vim entab_enhanced.c 
+ 1616  gcc entab_enhanced.c 
+ 1617  ./a.out 
+ 1618  vim entab_enhanced.c 
+ 1619  gcc entab_enhanced.c 
+ 1620  vim entab_enhanced.c 
+ 1621  gcc entab_enhanced.c 
+ 1622  ./a.out 
+ 1623  vim entab_enhanced.c 
+ 1624  gcc entab_enhanced.c 
+ 1625  ./a.out 
+ 1626  vim entab_enhanced.c 
+ 1627  gcc entab_enhanced.c 
+ 1628  ./a.out 
+ 1629  vim entab_enhanced.c 
+ 1630  ./a.out 
+ 1631  vim entab_enhanced.c 
+ 1632  gcc entab_enhanced.c 
+ 1633  ./a.out 
+ 1634  vim entab_enhanced.c 
+ 1635  cd ..
+ 1636  cd bit_Iam_wise/
+ 1637  ls
+ 1638  cd ..
+ 1639  ls
+ 1640  vf\
+ 1641  cd
+ 1642  ls
+ 1643  vim bit_macro.h 
+ 1644  mv bit_macro.h extended_journeY/bit_Iam_wise/
+ 1645  cd extended_journeY/bit_Iam_wise/
+ 1646  ls
+ 1647  vim arithmetic_operations.c
+ 1648  gcc arithmetic_operations.c
+ 1649  ./a.out 
+ 1650  vim arithmetic_operations.c
+ 1651  vim test_case.c
+ 1652  gcc test_case.c
+ 1653  vim test_case.c
+ 1654  gcc test_case.c
+ 1655  ./a.out 
+ 1656  vim test_case.c
+ 1657  gcc test_case.c
+ 1658  ./a.out 
+ 1659  vim test_case.c
+ 1660  ls
+ 1661  vim arithmetic_operations.c 
+ 1662  cd ..
+ 1663  cd journeY/
+ 1664  ls
+ 1665  cd umasraZ/
+ 1666  ls
+ 1667  cd bits/
+ 1668  ls
+ 1669  vim bitwise.c 
+ 1670  cd src/
+ 1671  ls
+ 1672  vim *add*
+ 1673  mkdir extended_journeY
+ 1674  cd extended_journeY/
+ 1675  cd strings
+ 1676  mkdir strings
+ 1677  cd strings/
+ 1678  vim main.c
+ 1679  gcc main.c
+ 1680  ./a.out 
+ 1681  vim main.c 
+ 1682  gcc main.c
+ 1683  ./a.out 
+ 1684  vim main.c 
+ 1685  gcc main.c
+ 1686  ./a.out 
+ 1687  vim main.c 
+ 1688  gcc main.c
+ 1689  ./a.out 
+ 1690  vim main.c 
+ 1691  gcc main.c
+ 1692  ./a.out 
+ 1693  vim main.c 
+ 1694  gcc main.c
+ 1695  ./a.out 
+ 1696  vim main.c 
+ 1697  gcc main.c
+ 1698  ./a.out 
+ 1699  vim main.c 
+ 1700  gcc main.c 
+ 1701  ./a.out 
+ 1702  vim main.c 
+ 1703  gcc main.c 
+ 1704  ./a.out 
+ 1705  vim main.c 
+ 1706  gcc main.c 
+ 1707  ./a.out 
+ 1708  ./a.out \
+ 1709  ./a.out 
+ 1710  vim main.c 
+ 1711  ./a.out \
+ 1712  gcc main.c 
+ 1713  ./a.out 
+ 1714  vim main.c 
+ 1715  gcc main.c 
+ 1716  ./a.out 
+ 1717  vim main.c 
+ 1718  gcc main.c 
+ 1719  vim main.c 
+ 1720  gcc main.c 
+ 1721  ./a.out 
+ 1722  vim main.c 
+ 1723  gcc main.c 
+ 1724  ./a.out 
+ 1725  vim main.c 
+ 1726  gcc main.c 
+ 1727  ./a.out 
+ 1728  vim main.c 
+ 1729  gcc main.c 
+ 1730  ./a.out 
+ 1731  vim main.c 
+ 1732  gcc main.c 
+ 1733  ./a.out 
+ 1734  vim main.c 
+ 1735  gcc main.c 
+ 1736  ./a.out \
+ 1737  ./a.out 
+ 1738  vim main.c 
+ 1739  gcc main.c 
+ 1740  ./a.out 
+ 1741  vim main.c 
+ 1742  gcc main.c 
+ 1743  ./a.out 
+ 1744  vim main.c 
+ 1745  gcc main.c 
+ 1746  ./a.out 
+ 1747  vim main.c 
+ 1748  gcc main.c 
+ 1749  ./a.out 
+ 1750  vim main.c 
+ 1751  gcc main.c 
+ 1752  ./a.out 
+ 1753  vim main.c 
+ 1754  gcc main.c 
+ 1755  ./a.out 
+ 1756  vim main.c 
+ 1757  gcc main.c 
+ 1758  ./a.out 
+ 1759  vim main.c 
+ 1760  gcc main.c 
+ 1761  vim main.c 
+ 1762  gcc main.c 
+ 1763  ./a.out 
+ 1764  vim main.c 
+ 1765  gcc main.c 
+ 1766  ./a.out 
+ 1767  vim main.c 
+ 1768  gcc main.c 
+ 1769  ./a.out 
+ 1770  vim main.c 
+ 1771  gcc main.c 
+ 1772  ./a.out 
+ 1773  vim main.c 
+ 1774  gcc main.c 
+ 1775  ./a.out 
+ 1776  gcc main.c 
+ 1777  uma
+ 1778  kuma
+ 1779  uma
+ 1780  gcc main.c 
+ 1781  .
+ 1782  vim main.c 
+ 1783  gcc main.c 
+ 1784  .\
+ 1785  .
+ 1786  vim main.c 
+ 1787  .\
+ 1788  gcc main.c 
+ 1789  .
+ 1790  gcc main.c 
+ 1791  ./a.out 
+ 1792  vim main.c 
+ 1793  gcc main.c 
+ 1794  ./a.out 
+ 1795  vim main.c 
+ 1796  gcc -ggdb main.c 
+ 1797  gdb ./a.out -q -n
+ 1798  vim main.c 
+ 1799  gcc -ggdb main.c 
+ 1800  ./a.out 
+ 1801  vim main.c 
+ 1802  ./a.out 
+ 1803  vim main.c 
+ 1804  gcc main.c 
+ 1805  ./a.out 
+ 1806  vim main.c 
+ 1807  gcc main.c 
+ 1808  ./a.out 
+ 1809  vim main.c 
+ 1810  ./a.out 
+ 1811  vim main.c 
+ 1812  gcc main.c 
+ 1813  ./a.out 
+ 1814  vim main.c 
+ 1815  gcc main.c 
+ 1816  ./a.out 
+ 1817  vim main.c 
+ 1818  gcc main.c 
+ 1819  .
+ 1820  vim main.c 
+ 1821  gcc main.c 
+ 1822  .
+ 1823  vim main.c 
+ 1824  gcc main.c 
+ 1825  ./a.out 
+ 1826  vim main.c 
+ 1827  gcc main.c 
+ 1828  ./a.out 
+ 1829  vim main.c 
+ 1830  gcc main.c 
+ 1831  vim main.c 
+ 1832  vim main.c +203
+ 1833  gcc main.c 
+ 1834  ./a.out 
+ 1835  vim main.c +203
+ 1836  gcc main.c
+ 1837  vim main.c +203
+ 1838  gcc main.c
+ 1839  ./a.out 
+ 1840  vim main.c +203
+ 1841  man str
+ 1842  man strxpy
+ 1843  man strcpy
+ 1844  man strtok
+ 1845  vim main.c 
+ 1846  gcc main.c 
+ 1847  ./a.out 
+ 1848  vim main.c 
+ 1849  gcc main.c 
+ 1850  ./a.out 
+ 1851  vim main.c 
+ 1852  gcc main.c 
+ 1853  ./a.out 
+ 1854  vim main.c 
+ 1855  gcc main.c 
+ 1856  ./a.out 
+ 1857  vim main.c 
+ 1858  gcc main.c 
+ 1859  ./a.out 
+ 1860  vim main.c 
+ 1861  gcc main.c 
+ 1862  ./a.out 
+ 1863  vim main.c 
+ 1864  gcc main.c 
+ 1865  ./a.out 
+ 1866  vim main.c 
+ 1867  gcc main.c 
+ 1868  ./a.out 
+ 1869  vim main.c 
+ 1870  gcc main.c 
+ 1871  ./a.out 
+ 1872  vim main.c 
+ 1873  gcc main.c 
+ 1874  ./a.out 
+ 1875  vim main.c 
+ 1876  vim ../../journeY/new_start/_str.c 
+ 1877  gcc ../../journeY/new_start/_str.c 
+ 1878  ./a.out 
+ 1879  vim ../../journeY/new_start/_str.c 
+ 1880  gcc ../../journeY/new_start/_str.c 
+ 1881  ./a.out 
+ 1882  vim ../../journeY/new_start/_str.c 
+ 1883  au
+ 1884  .
+ 1885  su
+ 1886  gdb ./a.out -q
+ 1887  ls
+ 1888  cd ..
+ 1889  cd bit_Iam_wise/
+ 1890  gdb ./a.out -q
+ 1891  gdb ./a.out -q -n
+ 1892  ./a.out 
+ 1893  vim arithmetic_operations.c 
+ 1894  gcc ../../journeY/new_start/_str.c 
+ 1895  gcc -ggdb  arithmetic_operations.c 
+ 1896  vim arithmetic_operations.c 
+ 1897  gcc -ggdb  arithmetic_operations.c 
+ 1898  ./a.out 
+ 1899  gdb ./a.out -q -n
+ 1900  vim arithmetic_operations.c 
+ 1901  gcc -ggdb  arithmetic_operations.c 
+ 1902  gdb ./a.out -q -n
+ 1903  vim arithmetic_operations.c 
+ 1904  gcc -ggdb  arithmetic_operations.c 
+ 1905  vim arithmetic_operations.c 
+ 1906  gcc -ggdb  arithmetic_operations.c 
+ 1907  ./a.out 
+ 1908  vim arithmetic_operations.c 
+ 1909  mv  arithmetic_operations.c addition.c
+ 1910  vim xor.c
+ 1911  gcc xor.c
+ 1912  ./a.out 
+ 1913  vim xor.c
+ 1914  vim substraction.c
+ 1915  gcc substraction.c
+ 1916  vim substraction.c
+ 1917  gcc substraction.c
+ 1918  ./a.out 
+ 1919  vim substraction.c
+ 1920  vim sumfunction.c
+ 1921  cp sumfunction.c subfunction.c 
+ 1922  vim sumfunction.c 
+ 1923  vim multiplication.c
+ 1924  gcc multiplication.c
+ 1925  gcc multiplication.c sumfunction.c 
+ 1926  vim multiplication.c 
+ 1927  vim sumfunction.c 
+ 1928  vim multiplication.c 
+ 1929  gcc multiplication.c sumfunction.c 
+ 1930  vim multiplication.c 
+ 1931  gcc multiplication.c sumfunction.c 
+ 1932  ./a.out 
+ 1933  vim multiplication.c 
+ 1934  gcc multiplication.c sumfunction.c 
+ 1935  ./a.
+ 1936  ./a.out 
+ 1937  vim multiplication.c 
+ 1938  gcc multiplication.c sumfunction.c 
+ 1939  ./a.out 
+ 1940  vim multiplication.c 
+ 1941  vim multiplication.c -w
+ 1942  vim multiplication.c -Wall
+ 1943  gcc multiplication.c -Wall
+ 1944  vim multiplication.c -Wall
+ 1945  gcc multiplication.c -Wall
+ 1946  gcc multiplication.c sumfunction.c 
+ 1947  ./a.out 
+ 1948  vim multiplication.c -Wall
+ 1949  vim multiplication.c
+ 1950  gcc multiplication.c sumfunction.c 
+ 1951  ./a.out 
+ 1952  vim multiplication.c
+ 1953  gcc multiplication.c sumfunction.c 
+ 1954  ./a.out 
+ 1955  vim multiplication.c
+ 1956  gcc multiplication.c sumfunction.c 
+ 1957  vim multiplication.c
+ 1958  gcc multiplication.c sumfunction.c 
+ 1959  ./a.out 
+ 1960  vim multiplication.c
+ 1961  cd ..
+ 1962  cd journeY/new_start/
+ 1963  gcc _tok.c 
+ 1964  ./a.out 
+ 1965  vim _tok.c 
+ 1966  ls
+ 1967  cd ..
+ 1968  cd new_start/
+ 1969  la
+ 1970  gcc .token2.c 
+ 1971  ./a.out 
+ 1972  cd ..
+ 1973  ls
+ 1974  cd ..
+ 1975  cd extended_journeY/strings/
+ 1976  ls
+ 1977  vim main.c 
+ 1978  gcc main.c 
+ 1979  ./a.out 
+ 1980  vim main.c 
+ 1981  CD ..
+ 1982  cd ..
+ 1983  cd bit_Iam_wise/
+ 1984  ls
+ 1985  vim multiplication.c 
+ 1986  gcc multiplication.c 
+ 1987  vim multiplication.c 
+ 1988  gcc multiplication.c 
+ 1989  gcc multiplication.c dum
+ 1990  gcc multiplication.c sumfunction.c 
+ 1991  ./a.out 
+ 1992  gcc multiplication.c sumfunction.c 
+ 1993  ./a.out 
+ 1994  vim multiplication.c 
+ 1995  gcc multiplication.c sumfunction.c 
+ 1996  ./a.out 
+ 1997  vim multiplication.c 
+ 1998  cd ..
+ 1999  cd extended_journeY/bit_Iam_wise/
+ 2000  vim setting_bit.c
+ 2001  gcc setting_bit.c
+ 2002  ./a.out 
+ 2003  vim setting_bit.c
+ 2004  gcc setting_bit.c
+ 2005  ./a.out 
+ 2006  vim setting_bit.c
+ 2007  gcc setting_bit.c
+ 2008  ./a.out 
+ 2009  vim setting_bit.c
+ 2010  gcc setting_bit.c
+ 2011  ./a.out 
+ 2012  qw
+ 2013  gcc setting_bit.c
+ 2014  ./a.out 
+ 2015  gcc setting_bit.c
+ 2016  ./a.out 
+ 2017  vim setting_bit.c
+ 2018  ./a.out 
+ 2019  vim setting_bit.c
+ 2020  vim bitshow.c
+ 2021  gcc bitshow.c
+ 2022  vim bitshow.c
+ 2023  gcc bitshow.c
+ 2024  vim bitshow.c
+ 2025  gcc bitshow.c
+ 2026  ./a.out 
+ 2027  vim bitshow.c
+ 2028  gcc bitshow.c
+ 2029  ./a.out 
+ 2030  vim bitshow.c
+ 2031  gcc bitshow.c
+ 2032  ./a.out 
+ 2033  vim bitshow.c
+ 2034  gcc bitshow.c
+ 2035  ./a.out 
+ 2036  vim bitshow.c
+ 2037  gcc bitshow.c
+ 2038  ./a.out 
+ 2039  vim bitshow.c
+ 2040  gcc bitshow.c
+ 2041  ./a.out 
+ 2042  vim bitshow.c
+ 2043  gcc bitshow.c
+ 2044  ./a.out 
+ 2045  vim bitshow.c
+ 2046  gcc bitshow.c
+ 2047  ./a.out 
+ 2048  vim bitshow.c
+ 2049  gcc bitshow.c
+ 2050  ./a.out 
+ 2051  vim bitshow.c
+ 2052  gcc bitshow.c
+ 2053  ./a.out 
+ 2054  vim bitshow.c
+ 2055  gcc bitshow.c
+ 2056  ./a.out 
+ 2057  gcc -o zero_or_one bitshow.c
+ 2058  sudo mv zero_or_one /bin/
+ 2059  zero_or_one 
+ 2060  vim swap_all.c
+ 2061  vim bitshow.c 
+ 2062  gcc bitshow.c swap_all.c
+ 2063  vim bitshow.c 
+ 2064  gcc bitshow.c swap_all.c
+ 2065  ./a.out 
+ 2066  gcc bitshow.c swap_all.c -o twos_complement
+ 2067  sudo mv twos_complement /bin/
+ 2068  vim swap_all.c 
+ 2069  vim bitshow.c 
+ 2070  vim swap_all.c 
+ 2071  gcc swap_all.c 
+ 2072  gcc swap_all.c bitshow.c 
+ 2073  ./a.out 
+ 2074  vim swap_all.c 
+ 2075  gcc swap_all.c bitshow.c 
+ 2076  ./a.out 
+ 2077  vim swap_all.c 
+ 2078  gcc swap_all.c bitshow.c 
+ 2079  ./a.out 
+ 2080  vim swap_all.c 
+ 2081  gcc swap_all.c bitshow.c 
+ 2082  ./a.out 
+ 2083  vim swap_all.c 
+ 2084  vim print_bit_in_pos.c
+ 2085  gcc print_bit_in_pos.c
+ 2086  ./a.out 
+ 2087  vim print_bit_in_pos.c
+ 2088  gcc print_bit_in_pos.c
+ 2089  ./a.out 
+ 2090  vim print_bit_in_pos.c
+ 2091  vim swap_all.c 
+ 2092  gcc swap_all.c 
+ 2093  gcc swap_all.c bitshow.c 
+ 2094  ./a.out 
+ 2095  vim swap_all.c 
+ 2096  gcc swap_all.c bitshow.c 
+ 2097  ./a.out 
+ 2098  vim swap_all.c 
+ 2099  gcc swap_all.c bitshow.c 
+ 2100  vim swap_all.c 
+ 2101  gcc swap_all.c bitshow.c 
+ 2102  ./a.out 
+ 2103  vim swap_all.c 
+ 2104  gcc swap_all.c bitshow.c 
+ 2105  ./a.out 
+ 2106  vim swap_all.c 
+ 2107  gcc swap_all.c bitshow.c 
+ 2108  vim swap_all.c 
+ 2109  gcc swap_all.c bitshow.c 
+ 2110  ./a.out 
+ 2111  vim swap_all.c 
+ 2112  twos_complement 
+ 2113  vim swap_all.c 
+ 2114  vim rotate_directions_by_n.c
+ 2115  cd ..
+ 2116  cd assignment_revisited/
+ 2117  ls
+ 2118  vim histogram_extended.c 
+ 2119  gcc histogram_extended.c 
+ 2120  ./a.out 
+ 2121  ./a.out umaraju umaraj umara umar uma um u um uma umar umara umaraj umaraju
+ 2122  ./a.out um
+ 2123  ./a.out um uma
+ 2124  vim histogram_extended.c 
+ 2125  gcc histogram_extended.c 
+ 2126  ./a.out umaraju umaraj umara umar uma um u um uma umar umara umaraj umaraju
+ 2127  vim histogram_extended.c 
+ 2128  ls
+ 2129  cd ..
+ 2130  ls
+ 2131  cd bit_Iam_wise/
+ 2132  ls
+ 2133  vim rotate_directions_by_n.c 
+ 2134  gcc rotate_directions_by_n.c 
+ 2135  gcc rotate_directions_by_n.c bitshow.c 
+ 2136  ./a.out 
+ 2137  vim rotate_directions_by_n.c 
+ 2138  gcc rotate_directions_by_n.c bitshow.c 
+ 2139  ./a.out 
+ 2140  vim rotate_directions_by_n.c 
+ 2141  gcc rotate_directions_by_n.c bitshow.c 
+ 2142  ./a.out 
+ 2143  gcc rotate_directions_by_n.c bitshow.c 
+ 2144  .a/.
+ 2145  ./a.out 
+ 2146  vim rotate_directions_by_n.c 
+ 2147  .a/.
+ 2148  gcc rotate_directions_by_n.c bitshow.c 
+ 2149  ./a.out 
+ 2150  vim rotate_directions_by_n.c 
+ 2151  gcc rotate_directions_by_n.c bitshow.c 
+ 2152  ./a.out 
+ 2153  vim rotate_directions_by_n.c 
+ 2154  gcc rotate_directions_by_n.c bitshow.c 
+ 2155  ./a.out 
+ 2156  vim rotate_directions_by_n.c 
+ 2157  gcc rotate_directions_by_n.c bitshow.c 
+ 2158  ./a.
+ 2159  .
+ 2160  ./a.
+ 2161  .
+ 2162  vim rotate_directions_by_n.c 
+ 2163  ./a.
+ 2164  gcc rotate_directions_by_n.c bitshow.c 
+ 2165  .
+ 2166  vim rotate_directions_by_n.c 
+ 2167  ls ../../journeY/umasraZ/bits/
+ 2168  ls ../../journeY/umasraZ/bits/src/
+ 2169  vim ../../journeY/umasraZ/bits/src/15invert.c 
+ 2170  vim toggle_all.c
+ 2171  su
+ 2172  vim nth_bit_string.c 
+ 2173  chmod 0777 *stri*
+ 2174  vim *str*
+ 2175  su
+ 2176  vim sumfunction.c 
+ 2177  ls -lrt
+ 2178  chmod 0664
+ 2179  chmod 0664 nth_bit_string.c 
+ 2180  ls -lrt
+ 2181  chmod 0664 a.out 
+ 2182  ls ../../journeY/umasraZ/bits/src/
+ 2183  cd ..
+ 2184  cd journeY/umasraZ/rough/
+ 2185  ls
+ 2186  vim bitwise_position_least.c 
+ 2187  vim log_bitwise.c 
+ 2188  gcc log_bitwise.c 
+ 2189  vim log_bitwise.c 
+ 2190  gcc log_bitwise.c 
+ 2191  ./a.out 
+ 2192  vim log_bitwise.c 
+ 2193  gcc log_bitwise.c 
+ 2194  ./a.out 
+ 2195  vim log_bitwise.c 
+ 2196  gcc log_bitwise.c 
+ 2197  ./a.out 
+ 2198  vim log_bitwise.c 
+ 2199  ./a.out 
+ 2200  vim log_bitwise.c 
+ 2201  ./a.out 
+ 2202  gcc log_bitwise.c 
+ 2203  ./a.out 
+ 2204  vim log_bitwise.c 
+ 2205  gcc log_bitwise.c 
+ 2206  vim log_bitwise.c 
+ 2207  vim ../../../extended_journeY/bit_Iam_wise/toggle_all.c 
+ 2208  vim /usr/include/_val.h 
+ 2209  vim log_bitwise.c 
+ 2210  gcc log_bitwise.c 
+ 2211  ./a.out 
+ 2212  vim log_bitwise.c 
+ 2213  mv log_bitwise.c ../../../extended_journeY/bit_Iam_wise/
+ 2214  cd ../../../extended_journeY/bit_Iam_wise/
+ 2215  vim log_bitwise.c 
+ 2216  gcc -ggdb log_bitwise.c 
+ 2217  gcc -ggdb log_bitwise.c -o debug
+ 2218  objcopy --only-keep-debug app app2
+ 2219  objcopy --only-keep-debug debug app2
+ 2220  vim app2 
+ 2221  strip --strip-debug debug
+ 2222  gdb ./debug -q -n
+ 2223  strip --strip-debug --strip-unneeded debug
+ 2224  gdb ./debug -q -n
+ 2225  man strio
+ 2226  man strip
+ 2227  man objcopy
+ 2228  history > debug_history
+ 2229  strip --strip-debug --strip-unneeded debug
+ 2230  gdb ./debug 
+ 2231  objcopy --add-gnu-debuglink=app2 debug
+ 2232  gdb ./debug 
+ 2233  history > debug_history
